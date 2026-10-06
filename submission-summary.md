@@ -54,6 +54,9 @@ https://github.com/AmalChUm/students-arcade/pull/90/changes/a8bc286f80e7e69b7226
 5. Update contribution plan completion  
 https://github.com/AmalChUm/students-arcade/pull/90/changes/57aef277d6313d33779b4f190e5a59429662b289
 
+6. Add submission summary and board evidence  
+https://github.com/AmalChUm/students-arcade/pull/90/changes/210773f962b2c732911bf42efb3eed27b011412a
+
 ## Kanban Project
 
 https://github.com/users/AmalChUm/projects/3
