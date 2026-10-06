@@ -64,6 +64,9 @@ https://github.com/users/AmalChUm/projects/3
 Board screenshot:
 evidence/screenshots/issue-33-in-review.png
 
+Issue details screenshot:
+evidence/screenshots/issue-33-details.png
+
 Status progression:
 Issue #33 was moved from Backlog to In Progress when work began, then to In Review after implementation and local verification. The current board screenshot shows the final In Review status.
 
