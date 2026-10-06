@@ -12,13 +12,13 @@ Create a new arcade plugin that randomly selects and displays one friendly greet
 
 ## Acceptance criteria
 
-- [ ] The new file is placed in plugins/ with a unique descriptive filename.
-- [ ] The plugin includes at least six friendly greetings.
-- [ ] The module defines AUTHOR, APP_NAME, and run().
-- [ ] The module uses only the Python standard library.
-- [ ] python main.py discovers and runs the plugin.
-- [ ] The output is readable.
-- [ ] main.py is not modified.
+- [x] The new file is placed in plugins/ with a unique descriptive filename.
+- [x] The plugin includes at least six friendly greetings.
+- [x] The module defines AUTHOR, APP_NAME, and run().
+- [x] The module uses only the Python standard library.
+- [x] python main.py discovers and runs the plugin.
+- [x] The output is readable.
+- [x] main.py is not modified.
 
 ## Possible risks or questions
 
